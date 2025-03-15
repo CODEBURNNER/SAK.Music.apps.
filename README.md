@@ -4,7 +4,7 @@ A modern Spotify Clone built with **ReactJS, Next.js, HTML, CSS, and JavaScript*
 Experience seamless music streaming with a clean and interactive UI.  
 
 ## 🚀 Live Demo  
-🔗 [SAK Music App Live](YOUR_VERSAL_DEPLOYMENT_LINK_HERE)  
+🔗 [SAK Music App Live]( https://sakmusic.vercel.app)  
 
 ## 📌 Features  
 - 🎼 Play, pause, and seek music tracks  
